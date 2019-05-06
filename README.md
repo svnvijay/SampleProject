@@ -1,4 +1,4 @@
 # SampleProject
 This is Sample Project Repository.
 
-Here are the some changes.
+Great the changes  are the some changes.
